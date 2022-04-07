@@ -1,3 +1,4 @@
 breve texto
-se modifica codigo jajaja
-gonza agrega codigo
+<<<<<<< HEAD
+se modifica codigo jajaja - añado texto 
+>>>>>>> 753552655e8615f9d5e143cc95eb7e750cb750cc
