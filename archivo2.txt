@@ -1,1 +1,2 @@
 hola es archivo 2
+agrego mas contenido al archivo
